@@ -1,6 +1,6 @@
-# AfdSocketView
+# AfdSocketViewer
 
-**AfdSocketView** is a command-line tool for inspecting properties of *Ancillary Function Driver* (AFD) socket handles. The tool queries information from `AFD.sys` - a low-level Windows component that powers networking sockets commonly used via the [Winsock library](https://learn.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2). Similar functionality (but in GUI) is also available in [System Informer](https://systeminformer.io/). To learn how it all works, check our **blog post**: [Improving AFD Socket Visibility for Windows Forensics & Troubleshooting](https://www.huntandhackett.com/blog/improving_afd_socket_visibility).
+**AfdSocketViewer** is a command-line tool for inspecting properties of *Ancillary Function Driver* (AFD) socket handles. The tool queries information from `AFD.sys` - a low-level Windows component that powers networking sockets commonly used via the [Winsock library](https://learn.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2). Similar functionality (but in GUI) is also available in [System Informer](https://systeminformer.io/). To learn how it all works, check our **blog post**: [Improving AFD Socket Visibility for Windows Forensics & Troubleshooting](https://www.huntandhackett.com/blog/improving_afd_socket_visibility).
 
 ## Usage
 
